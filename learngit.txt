@@ -1,1 +1,2 @@
-learngit
+let us learngit and learn programming
+it is not very simple
